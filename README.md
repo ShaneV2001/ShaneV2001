@@ -22,33 +22,6 @@
 - 🤖 Heavy user of **AI-assisted development** (Claude Code, Codex); currently working toward the Anthropic Claude AI Architect certification
 
 ---
-
-### 🛠️ What I've been building
-
-**Multi-tenant SaaS platform** *(private, stealth-stage)*
-- Row-level security and column-level grants on Postgres/Supabase for tenant isolation — caught and fixed a privilege-escalation bug before production
-- Stripe subscription billing with idempotent webhook handlers and retry logic
-- Atomic, concurrency-safe usage tracking to enforce a shared API budget under simultaneous requests
-- Observability from scratch with Sentry + UptimeRobot, plus an admin dashboard
-- Google OAuth with role-based routing; infra across Vercel and Cloudflare (DNS automation, WAF/DDoS protection)
-
-**Data operations tooling** *(Sendsational Texts)*
-- Python ingestion and cleaning pipelines (dedupe, standardization, segmentation prep) for SMS campaign data
-- Validation guardrails on a multi-source import tool to cut failed and dirty loads
-- Automated MDM workflows across 500+ devices, saving ~$12K/year
-
----
-
-### 📌 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🧬 [**Evolutionary Analysis of SCARB-2**](https://github.com/ShaneV2001/Evolutionary-Analysis-of-SCARB-2-Gene-and-Scavenger-Receptor-SuperGroup-) | End-to-end phylogenetics pipeline across 30+ species; surfaced 25 gene duplications, 46 losses, and 2 previously unreported protein domains | Python, R, BLAST, IQ-TREE, AWS EC2 |
-| 🏦 [**Basic Banking App**](https://github.com/ShaneV2001/BasicBankingApp) | Object-oriented banking application | Java |
-| 📈 [**Market Pull Request**](https://github.com/ShaneV2001/Market-Pull-Request) | Scheduler that checks whether it's within after-market hours before pulling market data | Python, datetime, pytz |
-
----
-
 ### 🧰 Tech stack
 
 **Languages**<br/>
