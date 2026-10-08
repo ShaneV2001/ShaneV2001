@@ -54,13 +54,3 @@
 <img src="https://img.shields.io/badge/FileMaker-333333?style=flat-square&logo=claris&logoColor=white"/>
 
 ---
-
-### 💡 Interests
-
-Multi-tenant architecture & data isolation · Concurrency and correctness · Production observability · Payments infrastructure · Computational biology
-
----
-
-<p align="center">
-  <i>Open to conversations about backend engineering, security-minded SaaS, and data-heavy problems — reach out on <a href="https://www.linkedin.com/in/shanevarghese/">LinkedIn</a>.</i>
-</p>
