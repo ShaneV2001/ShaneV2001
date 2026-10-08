@@ -16,7 +16,7 @@
 ### 🧭 About me
 
 - 🚀 **Founding Engineer** at a stealth-stage startup in NYC, building a multi-tenant SaaS platform end to end: backend architecture, security, billing, and production infrastructure
-- 📊 **Senior Data Operations Analyst** at Sendsational Texts, where I automate data pipelines and manage a 500+ device fleet
+- 📊 **Senior Data Operations Analyst** at Sendsational Texts
 - 🎓 Pursuing a **Master of Applied Science in Computer Science (MAS-CS) at the University of Pennsylvania** — expected Dec 2027
 - 🧬 Background in **biology and applied math**, with a phylogenetics research project built on AWS
 - 🤖 Heavy user of **AI-assisted development** (Claude Code, Codex); currently working toward the Anthropic Claude AI Architect certification
